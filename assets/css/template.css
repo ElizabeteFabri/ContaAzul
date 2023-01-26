@@ -50,7 +50,7 @@ body {
 .menuarea li {
 	height:40px;
 	line-height: 40px;
-	font-size:12px;
+	font-size:16px;
 	padding-left:30px;
 	background-size:10px 10px;
 	background-repeat: no-repeat;
@@ -60,6 +60,7 @@ body {
 	background-color:#000;
 }
 .menuarea li a {
+	
 	color:#FFF;
 	text-decoration: none;
 	display:block;
